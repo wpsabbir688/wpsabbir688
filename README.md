@@ -1,12 +1,12 @@
-![Header](https://media.licdn.com/dms/image/v2/D5616AQFLUUFvL7tMYw/profile-displaybackgroundimage-shrink_350_1400/B56aEsst.zLAAY-/0/1791751282947?e=1793836800&v=beta&t=vLs22E8_WiP0e_BdzcHdhfUN6WkpzS8KT0c81hW59lo)
+![Header](https://media.licdn.com/dms/image/v2/D5616AQFLUUFvL7tMYw/profile-displaybackgroundimage-shrink_350_1400/BS6aEsst.zLAAY-/0/1791751282947?e=1793836800&v=beta&t=vLs22E8_WiPoE_BdzHdhfUNGWkpzS8KT0c81hW591o)
 
 <h1 align="center">Hi there 👋, I'm Sabbir Hossain</h1>
-<h3 align="center">WordPress Developer (4+ years) · Founder & Owner of <a href="https://mivloo.com">Mivloo</a></h3>
+<h3 align="center">WordPress Developer (4+ years)</h3>
 
 ## 🚀 About Me
 
 - 💻 **WordPress Developer** with **4+ years** of professional experience
-- 🏢 Founder & Owner of **Mivloo** — a web design & development agency
+- 💼 Agency: **Mivloo** — web design & development (https://mivloo.com)
 - 🔭 I build custom WordPress websites, Elementor sites and WooCommerce stores for clients worldwide
 - ⚡ Passionate about **speed optimization**, clean code and **Technical SEO**
 - 🌍 Based in Sherpur, Bangladesh — working remotely with clients across the globe
