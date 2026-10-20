@@ -57,6 +57,6 @@
 [![Website](https://img.shields.io/badge/Website-mivloo.com-030013?style=for-the-badge&logo=googlechrome&logoColor=F9EB57)](https://mivloo.com)
 [![Email](https://img.shields.io/badge/Email-info@mivloo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mivloo.com)
 
-💼 Also available for hire on [Guru](https://www.guru.com/freelancers/sabbir-hossain-688)
+💼 Also available for hire on [LinkedIn](https://www.linkedin.com/in/wpsabbir44/)
 
-<p align="center"><i>“I help businesses grow with fast, secure and beautiful WordPress websites.”</i></p>
+<p align="center"><i>"I help businesses grow with fast, secure and beautiful WordPress websites."</i></p>
