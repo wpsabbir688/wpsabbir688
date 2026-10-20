@@ -1,4 +1,4 @@
-![Header](https://media.licdn.com/dms/image/v2/D5616AQFLUUFvL7tMYw/profile-displaybackgroundimage-shrink_350_1400/BS6aEsst.zLAAY-/0/1791751282947?e=1793836800&v=beta&t=vLs22E8_WiPoE_BdzHdhfUNGWkpzS8KT0c81hW591o)
+![Sabbir Hossain — WordPress Developer](banner.png)
 
 <h1 align="center">Hi there 👋, I'm Sabbir Hossain</h1>
 <h3 align="center">WordPress Developer (4+ years)</h3>
