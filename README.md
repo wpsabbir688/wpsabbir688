@@ -10,7 +10,7 @@
 - 🔭 I build custom WordPress websites, Elementor sites and WooCommerce stores for clients worldwide
 - ⚡ Passionate about **speed optimization**, clean code and **Technical SEO**
 - 🌍 Based in Sherpur, Bangladesh — working remotely with clients across the globe
-- 📫 Reach me at **info@mivloo.com**
+- 📫 Reach me at **wpsabbir44@gmail.com**
 
 ## 🛠️ What I Do
 
