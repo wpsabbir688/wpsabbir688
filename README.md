@@ -49,7 +49,7 @@
 
 ## 🌟 Featured Project
 
-- 🗺️ **[Sherpur Travel Guide](https://github.com/wpsabbir688/Sherpur)** — a tourism web app showcasing the beautiful places of Sherpur District, Bangladesh
+- 🎨 **[VectorForge](https://delicate-kheer-1bc786.netlify.app)** — a browser-based vector design studio (Illustrator-style: pen tools, booleans, Image Trace, EPS/PDF/SVG export, PWA) — [Source code](https://github.com/wpsabbir688/vectorforge)
 
 ## 🤝 Connect With Me
 
